@@ -1,0 +1,13 @@
+{
+"companyName": "Unity Today",
+"productName": "Unity Learning",
+"dataUrl": "59450e40f5004059fbb0933dd71c3dd3.unityweb",
+"wasmCodeUrl": "b3151551c13d59d7c82f45da458d0562.unityweb",
+"wasmFrameworkUrl": "8b2a22586f16c81800de78d950d72ce9.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#002B4D",
+"cacheControl": {"default": "must-revalidate"}
+}
